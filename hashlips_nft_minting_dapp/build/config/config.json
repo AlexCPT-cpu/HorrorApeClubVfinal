@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x894342ca467a4937695150504323F3534f3e16bf",
+  "SCAN_LINK": "https://bscscan.com/address/0x894342ca467a4937695150504323F3534f3e16bf",
+  "NETWORK": {
+    "NAME": "BSC",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Horror Ape Club NFT",
+  "SYMBOL": "HACNFT",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 66000000000000000,
+  "DISPLAY_COST": 0.066,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "ComingSoon",
+  "MARKETPLACE_LINK": "https://horrorape.club",
+  "SHOW_BACKGROUND": true
+}
